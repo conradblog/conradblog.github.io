@@ -1,4 +1,4 @@
-baseURL = "https://foreverlearner.gitlab.io/blog/"
+baseURL = "https://conradblog.github.io"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-tw"
 # 网站语言, 仅在这里 CN 大写
